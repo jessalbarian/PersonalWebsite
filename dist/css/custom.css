@@ -1,0 +1,12 @@
+ul li {
+    list-style-type: none;
+}
+
+#education img {
+    width: 75%;
+    opacity: 0.6;
+}
+#education img:hover {
+    width: 75%;
+    opacity: 1;
+}
