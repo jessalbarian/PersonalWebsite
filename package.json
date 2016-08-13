@@ -17,6 +17,19 @@
   },
   "homepage": "https://github.com/jessalbarian/PersonalWebsite#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-header": "^1.8.8",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7"
+  },
+  "dependencies": {
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1",
+    "gulp-html-src": "^1.0.0",
+    "gulp-less": "^3.1.0"
   }
 }
