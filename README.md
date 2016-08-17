@@ -12,4 +12,4 @@ $ npm install gulp --save-dev
 $ gulp
 ```
 
-![screen shot]()
+![screen shot](https://github.com/jessalbarian/PersonalWebsite/blob/master/screenshot.png)
