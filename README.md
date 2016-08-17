@@ -11,3 +11,5 @@ $ npm install gulp --save-dev
 ```
 $ gulp
 ```
+
+![screen shot]()
