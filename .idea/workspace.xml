@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f224096d-8359-4d43-beb6-ef6c973c8b8d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/portfolio/fullsize/1.jpg" afterPath="$PROJECT_DIR$/app/img/portfolio/fullsize/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/portfolio/fullsize/2.jpg" afterPath="$PROJECT_DIR$/app/img/portfolio/fullsize/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/portfolio/fullsize/3.jpg" afterPath="$PROJECT_DIR$/app/img/portfolio/fullsize/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/portfolio/fullsize/4.jpg" afterPath="$PROJECT_DIR$/app/img/portfolio/fullsize/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/portfolio/thumbnails/1.jpg" afterPath="$PROJECT_DIR$/app/img/portfolio/thumbnails/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/portfolio/thumbnails/2.jpg" afterPath="$PROJECT_DIR$/app/img/portfolio/thumbnails/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/portfolio/thumbnails/3.jpg" afterPath="$PROJECT_DIR$/app/img/portfolio/thumbnails/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/portfolio/thumbnails/4.jpg" afterPath="$PROJECT_DIR$/app/img/portfolio/thumbnails/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/portfolio/fullsize/5.jpg" afterPath="$PROJECT_DIR$/app/img/portfolio/fullsize/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/portfolio/fullsize/6.jpg" afterPath="$PROJECT_DIR$/app/img/portfolio/fullsize/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/portfolio/thumbnails/5.jpg" afterPath="$PROJECT_DIR$/app/img/portfolio/thumbnails/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/portfolio/thumbnails/6.jpg" afterPath="$PROJECT_DIR$/app/img/portfolio/thumbnails/6.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/custom.css" afterPath="$PROJECT_DIR$/app/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/creative.min.css" afterPath="$PROJECT_DIR$/dist/css/creative.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
     </list>
     <ignored path="PersonalWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,42 +31,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="514">
-              <caret line="163" column="59" selection-start-line="163" selection-start-column="59" selection-end-line="163" selection-end-column="59" />
+            <state relative-caret-position="199">
+              <caret line="238" column="37" selection-start-line="238" selection-start-column="37" selection-end-line="238" selection-end-column="37" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/img/portfolio/thumbnails/2.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/img/portfolio/thumbnails/3.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4.jpg" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/img/portfolio/thumbnails/4.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            <state relative-caret-position="390">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="2" selection-end-line="28" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -95,8 +69,8 @@
         <option value="$PROJECT_DIR$/dist/css/creative.css" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/app/css/creative.css" />
-        <option value="$PROJECT_DIR$/app/css/custom.css" />
         <option value="$PROJECT_DIR$/app/vendor/bootstrap/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/app/css/custom.css" />
         <option value="$PROJECT_DIR$/app/index.html" />
       </list>
     </option>
@@ -237,10 +211,6 @@
               <option name="myItemId" value="portfolio" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fullsize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -351,12 +321,12 @@
       <workItem from="1471091499405" duration="3042000" />
       <workItem from="1471100861844" duration="382000" />
       <workItem from="1471283382212" duration="194000" />
-      <workItem from="1471381828118" duration="4723000" />
+      <workItem from="1471381828118" duration="6345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8352000" />
+    <option name="totallyTimeSpent" value="9974000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="733" extended-state="6" />
@@ -398,48 +368,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dist/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/vendor/bootstrap/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="1161" column="3" selection-start-line="1161" selection-start-column="1" selection-end-line="1161" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/vendor/font-awesome/less/variables.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/vendor/font-awesome/less/bordered-pulled.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/vendor/font-awesome/less/core.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/vendor/font-awesome/less/fixed-width.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/vendor/font-awesome/less/font-awesome.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -674,14 +602,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/vendor/jquery/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-27">
@@ -740,25 +660,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/portfolio/fullsize/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/img/portfolio/thumbnails/1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="163" column="59" selection-start-line="163" selection-start-column="59" selection-end-line="163" selection-end-column="59" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/app/img/portfolio/thumbnails/4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/portfolio/thumbnails/2.jpg">
+    <entry file="file://$PROJECT_DIR$/app/img/portfolio/thumbnails/5.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -768,9 +680,55 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/portfolio/thumbnails/4.jpg">
+    <entry file="file://$PROJECT_DIR$/app/img/portfolio/thumbnails/2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/portfolio/fullsize/4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/portfolio/fullsize/3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/portfolio/fullsize/5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/portfolio/fullsize/6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/portfolio/fullsize/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/portfolio/thumbnails/6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="2" selection-end-line="28" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="238" column="37" selection-start-line="238" selection-start-column="37" selection-end-line="238" selection-end-column="37" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
