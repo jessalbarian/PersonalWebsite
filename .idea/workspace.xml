@@ -2,23 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f224096d-8359-4d43-beb6-ef6c973c8b8d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/portfolio/fullsize/app1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/portfolio/fullsize/app2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/portfolio/fullsize/app3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/portfolio/fullsize/app4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/portfolio/fullsize/app5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/portfolio/fullsize/app6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/portfolio/thumbnails/app1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/portfolio/thumbnails/app2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/portfolio/thumbnails/app3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/portfolio/thumbnails/app4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/portfolio/thumbnails/app5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/portfolio/thumbnails/app6.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/PersonalWebsite_node_modules.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PersonalWebsite.iml" afterPath="$PROJECT_DIR$/.idea/PersonalWebsite.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/custom.css" afterPath="$PROJECT_DIR$/app/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
     </list>
     <ignored path="PersonalWebsite.iws" />
@@ -45,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="405" column="62" selection-start-line="405" selection-start-column="62" selection-end-line="405" selection-end-column="62" />
+            <state relative-caret-position="255">
+              <caret line="93" column="507" selection-start-line="93" selection-start-column="507" selection-end-line="93" selection-end-column="507" />
               <folding />
             </state>
           </provider>
@@ -350,12 +333,12 @@
       <workItem from="1471381828118" duration="6606000" />
       <workItem from="1471566120629" duration="12000" />
       <workItem from="1471566159819" duration="189000" />
-      <workItem from="1471801149125" duration="2800000" />
+      <workItem from="1471801149125" duration="2904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13236000" />
+    <option name="totallyTimeSpent" value="13340000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="733" extended-state="6" />
@@ -723,8 +706,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="405" column="62" selection-start-line="405" selection-start-column="62" selection-end-line="405" selection-end-column="62" />
+        <state relative-caret-position="255">
+          <caret line="93" column="507" selection-start-line="93" selection-start-column="507" selection-end-line="93" selection-end-column="507" />
           <folding />
         </state>
       </provider>
