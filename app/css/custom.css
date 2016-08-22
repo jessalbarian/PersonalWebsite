@@ -26,7 +26,7 @@
 }
 
 #contact {
-    background-color: #fff;
+    background-color: #efecea;
     color: #F05F40;
 }
 
@@ -39,14 +39,17 @@
     color: #F05F40;
 }
 
+#education {
+    background-color: #efecea;
+}
+
 .education {
-    background-color: #fff;
     color: #F05F40;
     padding: 25px;
 }
 
 #experience {
-    background-color: #FFF;
+    background-color: #efecea;
     color: #F05F40;
 }
 
