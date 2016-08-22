@@ -28,7 +28,8 @@ var filesToMove = [
     './app/font-awesome/**/*.*',
     './app/jquery/*.*',
     './app/magnific-popup/*.*',
-    './app/scrollreveal/*.*'
+    './app/scrollreveal/*.*',
+    '.app/index.html'
 ];
 
 
