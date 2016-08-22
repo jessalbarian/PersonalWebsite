@@ -20,7 +20,6 @@ var banner = ['/*!\n',
 ].join('');
 
 var filesToMove = [
-    './_locales/**/*.*',
     './app/css/*.*',
     './app/img/**/*.*',
     './app/js/*.*',
@@ -34,7 +33,7 @@ var filesToMove = [
 
 
 // Default task
-gulp.task('default', ['less', 'minify-css', 'minify-js', 'copy']);
+gulp.task('default', ['less', 'minify-css', 'minify-js']);
 
 // Less task to compile the less files and add the banner
 gulp.task('less', function() {
@@ -132,7 +131,7 @@ gulp.task('browserSync', function() {
 //         .pipe(gulp.dest('dist'));
 // });
 
-gulp.task('copy', function(){
+gulp.task('copy',['clean'], function(){
     // the base option sets the relative root for the set of files,
     // preserving the folder structure
     gulp.src(filesToMove, { base: './app' })
@@ -140,7 +139,7 @@ gulp.task('copy', function(){
 });
 
 // Watch Task that compiles LESS and watches for HTML or JS changes and reloads with browserSync
-gulp.task('dev', ['browserSync', 'less', 'minify-css', 'minify-js', 'copy'], function() {
+gulp.task('dev', ['browserSync', 'less', 'minify-css', 'minify-js', 'copy', 'clean'], function() {
     gulp.watch('app/less/*.less', ['less']);
     gulp.watch('app/css/*.css', ['minify-css']);
     gulp.watch('app/js/*.js', ['minify-js']);
