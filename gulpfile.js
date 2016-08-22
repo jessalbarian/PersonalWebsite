@@ -113,7 +113,7 @@ gulp.task('copy', ['bootstrap', 'jquery', 'fontawesome', 'magnific-popup', 'scro
 gulp.task('browserSync', function() {
     browserSync.init({
         server: {
-            baseDir: 'app/'
+            baseDir: './app/'
         }
     })
 });
@@ -124,6 +124,7 @@ gulp.task('copy', function () {
         .src('app/index.html')
     .pipe(gulp.dest('dist'));
 });
+
 // gulp.task('copy',['clean'], function(){
 //     // the base option sets the relative root for the set of files,
 //     // preserving the folder structure
