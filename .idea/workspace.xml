@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f224096d-8359-4d43-beb6-ef6c973c8b8d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/education/bhs.png" afterPath="$PROJECT_DIR$/dist/img/education/bhs.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/education/cuboulder.png" afterPath="$PROJECT_DIR$/dist/img/education/cuboulder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/education/frontrange.png" afterPath="$PROJECT_DIR$/dist/img/education/frontrange.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/portfolio/fullsize/1.jpg" afterPath="$PROJECT_DIR$/dist/img/portfolio/fullsize/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/portfolio/fullsize/2.jpg" afterPath="$PROJECT_DIR$/dist/img/portfolio/fullsize/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/portfolio/fullsize/3.jpg" afterPath="$PROJECT_DIR$/dist/img/portfolio/fullsize/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/portfolio/fullsize/4.jpg" afterPath="$PROJECT_DIR$/dist/img/portfolio/fullsize/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/portfolio/fullsize/5.jpg" afterPath="$PROJECT_DIR$/dist/img/portfolio/fullsize/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/portfolio/fullsize/6.jpg" afterPath="$PROJECT_DIR$/dist/img/portfolio/fullsize/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/portfolio/thumbnails/1.jpg" afterPath="$PROJECT_DIR$/dist/img/portfolio/thumbnails/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/portfolio/thumbnails/2.jpg" afterPath="$PROJECT_DIR$/dist/img/portfolio/thumbnails/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/portfolio/thumbnails/3.jpg" afterPath="$PROJECT_DIR$/dist/img/portfolio/thumbnails/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/portfolio/thumbnails/4.jpg" afterPath="$PROJECT_DIR$/dist/img/portfolio/thumbnails/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/portfolio/thumbnails/5.jpg" afterPath="$PROJECT_DIR$/dist/img/portfolio/thumbnails/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/img/portfolio/thumbnails/6.jpg" afterPath="$PROJECT_DIR$/dist/img/portfolio/thumbnails/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/creative.css" afterPath="$PROJECT_DIR$/dist/css/creative.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/creative.min.css" afterPath="$PROJECT_DIR$/dist/css/creative.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/custom.css" afterPath="$PROJECT_DIR$/dist/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/js/creative.js" afterPath="$PROJECT_DIR$/dist/js/creative.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/js/creative.min.js" afterPath="$PROJECT_DIR$/dist/js/creative.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/less/creative.css" afterPath="$PROJECT_DIR$/dist/less/creative.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/less/mixins.css" afterPath="$PROJECT_DIR$/dist/less/mixins.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/less/variables.css" afterPath="$PROJECT_DIR$/dist/less/variables.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp-clean/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/decamelize/package.json" afterPath="$PROJECT_DIR$/node_modules/gulp-clean/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/decamelize/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp-clean/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-correct/node_modules/spdx-license-ids/package.json" afterPath="$PROJECT_DIR$/node_modules/gulp-clean/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-correct/node_modules/spdx-license-ids/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp-clean/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/graceful-fs/package.json" afterPath="$PROJECT_DIR$/node_modules/gulp-clean/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/graceful-fs/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp-clean/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/graceful-fs/polyfills.js" afterPath="$PROJECT_DIR$/node_modules/gulp-clean/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/graceful-fs/polyfills.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp-clean/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/path-type/node_modules/graceful-fs/package.json" afterPath="$PROJECT_DIR$/node_modules/gulp-clean/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/path-type/node_modules/graceful-fs/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp-clean/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/path-type/node_modules/graceful-fs/polyfills.js" afterPath="$PROJECT_DIR$/node_modules/gulp-clean/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/path-type/node_modules/graceful-fs/polyfills.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp-clean/package.json" afterPath="$PROJECT_DIR$/node_modules/gulp-clean/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
     </list>
     <ignored path="PersonalWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="104" column="23" selection-start-line="104" selection-start-column="23" selection-end-line="104" selection-end-column="23" />
+            <state relative-caret-position="255">
+              <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -78,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -170,8 +138,8 @@
         <option value="$PROJECT_DIR$/app/css/custom.css" />
         <option value="$PROJECT_DIR$/app/js/creative.js" />
         <option value="$PROJECT_DIR$/app/vendor/bootstrap/js/bootstrap.js" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
       </list>
     </option>
   </component>
@@ -472,18 +440,18 @@
       <workItem from="1471801149125" duration="2941000" />
       <workItem from="1471805078454" duration="1000" />
       <workItem from="1471827346054" duration="8308000" />
-      <workItem from="1471838223031" duration="2350000" />
+      <workItem from="1471838223031" duration="2942000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24036000" />
+    <option name="totallyTimeSpent" value="24628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21842733" sideWeight="0.49069768" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21842733" sideWeight="0.49069768" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.50277996" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5093023" order="2" side_tool="true" content_ui="tabs" />
@@ -852,10 +820,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="35" column="63" selection-start-line="35" selection-start-column="63" selection-end-line="35" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="104" column="23" selection-start-line="104" selection-start-column="23" selection-end-line="104" selection-end-column="23" />
+        <state relative-caret-position="255">
+          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -868,14 +844,6 @@
             <element signature="n#style#0;n#div#0;n#div#8;n#div#1;n#div#0;n#div#1;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#9;n#div#1;n#div#0;n#div#1;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="35" column="63" selection-start-line="35" selection-start-column="63" selection-end-line="35" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
