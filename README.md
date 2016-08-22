@@ -1,6 +1,6 @@
 # My Personal Website
 
-[JessieAlbarian.com](jessiealbarian.com)
+[JessieAlbarian.com](http://jessiealbarian.com/)
 
 Using a [StartBootstrap](https://startbootstrap.com/template-overviews/creative/) theme and [Gulp](http://gulpjs.com/) for the build system
 
