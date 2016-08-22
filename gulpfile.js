@@ -29,7 +29,7 @@ var filesToMove = [
     './app/jquery/*.*',
     './app/magnific-popup/*.*',
     './app/scrollreveal/*.*',
-    '.app/index.html'
+    './app/index.html'
 ];
 
 
