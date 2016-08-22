@@ -14,13 +14,14 @@
 
 
 #project-heading {
-    color: #F05F40;
+    background-color: #F05F40;
+    color: #fff;
     padding: 75px;
 }
 
 #project2-heading {
-    background-color: #fff;
-    color: #F05F40;
+    background-color: #F05F40;
+    color: #fff;
     padding: 75px;
 }
 
@@ -45,17 +46,45 @@
 }
 
 #experience {
-    background-color: #F05F40;
+    background-color: #FFF;
+    color: #F05F40;
+}
+
+#experience a{
     color: #fff;
 }
 
+#experience h5 {
+    color: #d4d4d4;
+}
 hr {
     border-color: #F05F40;
     border-width: 3px;
     max-width: 50px;
 }
 
+#skills {
+    background-color: #F05F40;
+    color: #fff;
+}
+.progress-bar {
+    background-color: #3F3F3F;
+}
+.progress {
+    width: 30em;
+}
 
+.icon {
+    margin: 0.7em;
+}
+
+.icon:hover {
+    color: #3F3F3F;
+}
+
+#mainNav {
+    opacity: 0.7;
+}
 
 /*
  * Timeline: https://codepen.io/jenniferperrin/pen/xfwab
@@ -73,7 +102,7 @@ hr {
     position: absolute;
     content:" ";
     width: 2px;
-    background: #ffffff;
+    background: #F05F40;
     left: 50%;
     margin-left: -1.5px;
 }
@@ -104,8 +133,7 @@ hr {
     width: -webkit-calc(100% - 25px);
     float: left;
     border: 1px solid #dcdcdc;
-    background: #ffffff;
-    /*opacity: 0.7;*/
+    background: #F05F40;
     position: relative;
 }
 .timeline > li > .timeline-panel:before {
@@ -131,7 +159,7 @@ hr {
     content:" ";
 }
 .timeline > li > .timeline-badge {
-    color: #ffffff;
+    color: #000;
     width: 24px;
     height: 24px;
     line-height: 50px;
@@ -157,10 +185,10 @@ hr {
     right: auto;
 }
 .timeline-badge > a {
-    color: #ffffff !important;
+    color: #F05F40 !important;
 }
 .timeline-badge a:hover {
-    color: #dcdcdc !important;
+    color: #F05F40 !important;
 }
 .timeline-title {
     margin-top: 0;
@@ -169,12 +197,12 @@ hr {
 .timeline-heading h4 {
     font-weight: 400;
     padding: 0 15px;
-    color: #F05F40;
+    color: #FFF;
 }
 .timeline-heading h5 {
     font-weight: 400;
     padding: 0 15px;
-    color: #F05F40;
+    color: #FFF;
 }
 .timeline-body > p, .timeline-body > ul {
     padding: 10px 15px;
