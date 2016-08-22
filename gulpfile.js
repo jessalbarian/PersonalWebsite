@@ -28,7 +28,7 @@ var filesToMove = [
     './app/jquery/*.*',
     './app/magnific-popup/*.*',
     './app/scrollreveal/*.*',
-    './app/index.html'
+    '/app/index.html'
 ];
 
 
@@ -119,11 +119,11 @@ gulp.task('browserSync', function() {
 });
 
 // Copy over index.html
-// gulp.task('copy', function () {
-//     return gulp
-//         .src('app/*')
-//     .pipe(gulp.dest('dist'));
-// });
+gulp.task('copy', function () {
+    return gulp
+        .src('app/index.html')
+    .pipe(gulp.dest('dist'));
+});
 // gulp.task('copy',['clean'], function(){
 //     // the base option sets the relative root for the set of files,
 //     // preserving the folder structure
@@ -141,6 +141,7 @@ gulp.task('copy',['clean'], function(){
 // Watch Task that compiles LESS and watches for HTML or JS changes and reloads with browserSync
 gulp.task('dev', ['browserSync', 'less', 'minify-css', 'minify-js', 'copy', 'clean'], function() {
     gulp.watch('app/less/*.less', ['less']);
+    gulp.watch('app/index.html', ['copy']);
     gulp.watch('app/css/*.css', ['minify-css']);
     gulp.watch('app/js/*.js', ['minify-js']);
     // Reloads the browser whenever HTML or JS files change
