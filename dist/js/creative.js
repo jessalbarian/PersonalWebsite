@@ -39,10 +39,6 @@
         duration: 1000,
         delay: 200
     });
-    sr.reveal('.sr-education', {
-        duration: 600,
-        scale: 0.3
-    });
     sr.reveal('.sr-contact', {
         duration: 600,
         scale: 0.3,

@@ -7,7 +7,7 @@ var cleanCSS = require('gulp-clean-css');
 var rename = require("gulp-rename");
 var uglify = require('gulp-uglify');
 var pkg = require('./package.json');
-var ghtmlSrc = require('gulp-html-src');
+var clean = require('gulp-clean');
 
 
 // Set the banner content
@@ -124,7 +124,14 @@ gulp.task('browserSync', function() {
 //         .src('app/*')
 //     .pipe(gulp.dest('dist'));
 // });
-gulp.task('move',['clean'], function(){
+// gulp.task('copy',['clean'], function(){
+//     // the base option sets the relative root for the set of files,
+//     // preserving the folder structure
+//     gulp.src(filesToMove, { base: './app' })
+//         .pipe(gulp.dest('dist'));
+// });
+
+gulp.task('copy', function(){
     // the base option sets the relative root for the set of files,
     // preserving the folder structure
     gulp.src(filesToMove, { base: './app' })
@@ -132,7 +139,7 @@ gulp.task('move',['clean'], function(){
 });
 
 // Watch Task that compiles LESS and watches for HTML or JS changes and reloads with browserSync
-gulp.task('dev', ['browserSync', 'less', 'minify-css', 'minify-js'], function() {
+gulp.task('dev', ['browserSync', 'less', 'minify-css', 'minify-js', 'copy'], function() {
     gulp.watch('app/less/*.less', ['less']);
     gulp.watch('app/css/*.css', ['minify-css']);
     gulp.watch('app/js/*.js', ['minify-js']);

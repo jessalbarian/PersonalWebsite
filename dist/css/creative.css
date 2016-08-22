@@ -1,7 +1,7 @@
 /*!
- * Start Bootstrap -  v1.0.0 (https://github.com/jessalbarian/PersonalWebsite#readme)
- * Copyright 2013-2016 Jessie Albarian
- * Licensed under  ()
+ * Start Bootstrap - Creative v1.1.1 (http://startbootstrap.com/template-overviews/creative)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 html,
 body {
@@ -9,10 +9,10 @@ body {
   width: 100%;
 }
 body {
-  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 hr {
-  border-color: #F05F40;
+  border-color: #fff;
   border-width: 3px;
   max-width: 50px;
 }
@@ -35,7 +35,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 p {
   font-size: 16px;
@@ -155,7 +155,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
+  background-image: url('../img/coffee.jpg');
   text-align: center;
   color: white;
 }
