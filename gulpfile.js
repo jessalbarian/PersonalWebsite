@@ -19,15 +19,28 @@ var banner = ['/*!\n',
     ''
 ].join('');
 
+var filesToMove = [
+    './_locales/**/*.*',
+    './app/css/*.*',
+    './app/img/**/*.*',
+    './app/js/*.*',
+    './app/vendor/**/**/*.*',
+    './app/font-awesome/**/*.*',
+    './app/jquery/*.*',
+    './app/magnific-popup/*.*',
+    './app/scrollreveal/*.*'
+];
+
+
 // Default task
 gulp.task('default', ['less', 'minify-css', 'minify-js', 'copy']);
 
 // Less task to compile the less files and add the banner
 gulp.task('less', function() {
-    return gulp.src('app/less/creative.less')
+    return gulp.src('app/less/*.*')
         .pipe(less())
         .pipe(header(banner, { pkg: pkg }))
-        .pipe(gulp.dest('dist/css'))
+        .pipe(gulp.dest('dist/less'))
         .pipe(browserSync.reload({
             stream: true
         }))
@@ -35,7 +48,7 @@ gulp.task('less', function() {
 
 // Minify CSS
 gulp.task('minify-css', function() {
-    return gulp.src('app/css/creative.css')
+    return gulp.src('app/css/*')
         .pipe(cleanCSS({ compatibility: 'ie8' }))
         .pipe(rename({ suffix: '.min' }))
         .pipe(gulp.dest('dist/css'))
@@ -46,7 +59,7 @@ gulp.task('minify-css', function() {
 
 // Minify JS
 gulp.task('minify-js', function() {
-    return gulp.src('app/js/creative.js')
+    return gulp.src('app/js/*')
         .pipe(uglify())
         .pipe(header(banner, { pkg: pkg }))
         .pipe(rename({ suffix: '.min' }))
@@ -106,12 +119,17 @@ gulp.task('browserSync', function() {
 });
 
 // Copy over index.html
-gulp.task('copy', function () {
-    return gulp
-        .src('app/index.html')
-    .pipe(gulp.dest('dist'));
+// gulp.task('copy', function () {
+//     return gulp
+//         .src('app/*')
+//     .pipe(gulp.dest('dist'));
+// });
+gulp.task('move',['clean'], function(){
+    // the base option sets the relative root for the set of files,
+    // preserving the folder structure
+    gulp.src(filesToMove, { base: './app' })
+        .pipe(gulp.dest('dist'));
 });
-
 
 // Watch Task that compiles LESS and watches for HTML or JS changes and reloads with browserSync
 gulp.task('dev', ['browserSync', 'less', 'minify-css', 'minify-js'], function() {
