@@ -31,6 +31,21 @@
     padding: 75px;
 }
 
+#portfolio {
+    background-color: #F05F40;
+}
+#portfolio a{
+    margin: 2em;
+}
+
+#portfolio2 {
+    background-color: #F05F40;
+}
+#portfolio2 a{
+    margin: 2em;
+}
+
+
 #contact {
     background-color: #efecea;
     color: #F05F40;
