@@ -121,7 +121,7 @@ gulp.task('browserSync', function() {
 // Copy over index.html
 gulp.task('copy', function () {
     return gulp
-        .src('app/index.html')
+        .src('./app/index.html')
     .pipe(gulp.dest('dist'));
 });
 
