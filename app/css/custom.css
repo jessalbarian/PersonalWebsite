@@ -300,6 +300,9 @@ hr {
     .timeline > li.timeline-inverted > .timeline-badge {
         left: 28px;
     }
+    img {
+        width: 90%;
+    }
 }
 
 .white {
